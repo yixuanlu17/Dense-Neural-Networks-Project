@@ -15,6 +15,11 @@ import numpy as np
 from matplotlib import pyplot as plt #for plotting
 from sklearn import preprocessing
 ```
+## Skills
+* Dense Neural Networks
+* Early-Stopping
+* k-fold 
+* Model checkpointing
 
 ## Results
 
